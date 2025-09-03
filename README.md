@@ -1,4 +1,4 @@
-###🏡 USA Real Estate Data Analysis & Visualization
+### 🏡 USA Real Estate Data Analysis & Visualization
 
 This project focuses on cleaning, exploring, and visualizing a large USA Real Estate dataset (2.2M+ rows) using Python (Pandas) and Power BI.
 The goal was to extract insights about housing prices, property sizes, and market distribution while learning how to handle big datasets efficiently.
