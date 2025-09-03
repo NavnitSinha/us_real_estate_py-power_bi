@@ -31,11 +31,10 @@ Built interactive dashboards with:
 <img width="583" height="329" alt="image" src="https://github.com/user-attachments/assets/b06d95f2-662e-4a8f-8116-7cdaa047c5d9" />
 
 
-📂 Repository Structure
-├── data_cleaning.py        # Python script for data cleaning
-├── screenshots/            # Power BI dashboard previews
-├── README.md               # Project documentation
-└── sample_data.csv         # (optional) small cleaned dataset for demo
+📂 Repository Structure:
+├── data_cleaning.py                 
+├── README.md               
+└── sample_data.csv       
 
 📥 Full Files:
 
@@ -60,6 +59,8 @@ Presenting data projects professionally with GitHub + documentation
 
 ✨ Author
 
-👤 Navnit Sinha
-📧 sinha.navnit2000@gmail.com
-🌐 [LinkedIn / Portfolio Link]
+- 👤 Navnit Sinha
+- 📧 sinha.navnit2000@gmail.com
+- 🌐 [LinkedIn / Portfolio Link]
+
+⚡ This project is part of my journey into Data Analytics, combining Python + Power BI to transform raw data into actionable insights.
