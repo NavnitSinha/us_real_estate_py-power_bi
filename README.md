@@ -30,19 +30,11 @@ Built interactive dashboards with:
 
 <img width="583" height="329" alt="image" src="https://github.com/user-attachments/assets/b06d95f2-662e-4a8f-8116-7cdaa047c5d9" />
 
-
-📂 Repository Structure:
-
-├── data_cleaning.py                 
-└── README.md               
-
-
 📥 Full Files:
-
 Due to file size limits, the cleaned dataset (50MB+), Excel export, and Power BI (.pbix) dashboard are uploaded externally:
-
-📂 Download Cleaned Dataset + Power BI File
- (Google Drive / OneDrive link here)
+[📄 Raw Dataset](https://drive.google.com/file/d/1pnwXOgf1jAScqydQAGlcyuyQbWjFfXgB/view?usp=drive_link)
+[✅ Cleaned Dataset](https://drive.google.com/file/d/1J3zP9l2phfqTzWlSpA9hyb_rZNhTn8Pv/view?usp=drive_link)
+[📊 Power BI Dashboard](https://drive.google.com/file/d/18WtN56nEu0EaurJgWsUicI8Tb0DvHzlH/view?usp=drive_link)
 
 🚀 Tech Stack
 
